@@ -14,7 +14,7 @@ def deposit():
         if amount.isdigit(): #check whether the input amount is digit or not
             amount = int(amount) #convert into integer format
             if amount > 0: #check whether the amount is positive (greater than 0) or not
-                break # stop the WHILE loop
+                break # stop the WHILE loop 
             else:
                 print("The amount must be greater than 0.") #inform user to enter a positive amount again
         else:
