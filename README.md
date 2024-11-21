@@ -1,15 +1,15 @@
 # Trong-Tin Nguyen 🌟  
-**Business Intelligence Intern | Postgraduate in Business Analytics**
+**Business Analytics Graduate | Data-Driven Problem Solver**
 
-Welcome to my GitHub profile! I'm Trong-Tin Nguyen, a dedicated business analytics professional with a passion for solving real-world problems using data-driven strategies.
+Welcome to my GitHub profile! I'm Trong-Tin Nguyen, a recent graduate in Business Analytics, eager to apply my skills in data analysis and visualization to solve real-world problems.
 
 ---
 
 ## 📌 About Me
-- 🌏 **Location**: Sydney, Australia  
+- 🌏 **Location**: City of Canterbury-Bankstown, NSW, Australia  
 - 🎓 **Education**:  
-  - Master in Business Analytics, Victoria University (2023–2025)  
-  - Bachelor of Business Administration, Nong Lam University (2012–2019)  
+  - Master in Business Analytics, Victoria University (Graduated 2025)  
+  - Bachelor of Business Administration, Nong Lam University (2019)  
 - 🔗 **Webpage**: [Visit My Portfolio](http://sm.edu.vn)  
 - 📧 **Email**: [tin.trongnguyen.dn@gmail.com](mailto:tin.trongnguyen.dn@gmail.com)  
 - 💼 **LinkedIn**: [linkedin.com/in/trongtinnguyen](http://www.linkedin.com/in/trongtinnguyen)  
@@ -19,17 +19,33 @@ Welcome to my GitHub profile! I'm Trong-Tin Nguyen, a dedicated business analyti
 
 ## 🛠️ Skills and Expertise
 ### Data Analysis
-- **Quantitative Techniques**: Hypothesis testing, regression analysis, time series analysis.
-- **Parametric/Non-Parametric Tests**: T-test, ANOVA, Wilcoxon, Kruskal-Wallis.
-- **Exploratory Data Analysis (EDA)**: Visualization, outlier detection, feature engineering.
+#### Quantitative Techniques
+- Hypothesis testing: Null and alternative hypothesis formulation, p-value interpretation.
+- Regression Analysis: Linear, logistic, polynomial regression.
+- Correlation Analysis: Pearson, Spearman, Kendall rank.
+- Time Series Analysis: ARIMA, exponential smoothing, seasonal decomposition.
+- Clustering: K-means, hierarchical clustering.
+
+#### Parametric/Non-Parametric Tests
+- Parametric: T-test, ANOVA, ANCOVA, MANOVA, repeated measures ANOVA.
+- Non-Parametric: Wilcoxon signed-rank, Mann-Whitney U, Kruskal-Wallis, Friedman, Chi-square goodness-of-fit, Kolmogorov-Smirnov test.
+- Post-Hoc Analysis: Tukey HSD, Bonferroni correction.
+
+#### Exploratory Data Analysis (EDA)
+- Descriptive Statistics: Central tendency, dispersion, skewness, kurtosis.
+- Visualization Techniques: Histograms, boxplots, scatterplots, heatmaps, correlation matrices.
+- Outlier Detection: IQR method, Z-scores, unsupervised and visual approaches.
+- Data Cleaning and Transformation: Handling missing data, normalization, standardization, encoding categorical variables.
+
+---
 
 ### Tools & Programming
-- **Programming**: Python (NumPy, pandas, SciPy, statsmodels).
-- **Visualization**: Tableau, MS PowerPoint, Canva.
+- **Programming**: Python (NumPy, pandas, SciPy, statsmodels, matplotlib, seaborn).
+- **Visualization**: Tableau, MS PowerPoint, MS Excel, Canva.
 - **Statistical Platforms**: SPSS, Excel.
 
 ### Machine Learning
-- Proficient in **Scikit-learn** and **TensorFlow**.
+- Basic proficiency in **Scikit-learn** and **TensorFlow**: Implementing simple supervised and unsupervised models.
 
 ---
 
@@ -41,8 +57,9 @@ Welcome to my GitHub profile! I'm Trong-Tin Nguyen, a dedicated business analyti
 ---
 
 ## 📊 Featured Projects
-- **Data-Driven Decision Making**: Advanced statistical models for business strategy optimization.
-- **Visualization Dashboards**: Insights storytelling through Tableau and Canva.
+- **Customer Segmentation**: Developed a K-means clustering model to identify customer groups for targeted marketing strategies.
+- **Survey Analysis Dashboard**: Built interactive Tableau dashboards to present insights from survey data.
+- **Time Series Forecasting**: Analyzed retail sales data to predict seasonal trends using ARIMA models.
 
 ---
 
